@@ -6,7 +6,7 @@ It helps streamline patient records, appointment scheduling, and overall healthc
 
 🚀 Features
 
-✔️ Patient Record Management
+✔️ Patient Record Management.
 ✔️ Appointment Scheduling System
 ✔️ Interactive Dashboard
 ✔️ AI-Based Health Monitoring Support
